@@ -3,7 +3,7 @@
 // const Day = require('../lib/day');
 const Repl = require('../lib/repl');
 const DB = require('../lib/db');
-const date = moment().format('YYYY-MM-DD');
+// const date = moment().format('YYYY-MM-DD');
 // const notify = require('../lib/notify')
 
 // const { NotificationCenter } = require('node-notifier');
@@ -34,5 +34,4 @@ Repl.boot();
 //         startTime: 100,
 //     }
 // ]);
-
 
